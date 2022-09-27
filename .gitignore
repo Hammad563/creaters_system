@@ -24,8 +24,9 @@
 /tmp/storage/*
 !/tmp/storage/
 !/tmp/storage/.keep
-
+/stripe.exe
 /public/assets
+/config/environments/override_variables.rb
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
